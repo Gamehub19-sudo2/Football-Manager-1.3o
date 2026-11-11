@@ -1,0 +1,3 @@
+Códigos ADM: entre em Salvar, conecte-se e aguarde recuperar a carreira. Depois digite seu código na área Códigos. A validação exige internet. Os códigos comuns continuam locais.
+A função remota verifica o código; esta versão ainda aplica os benefícios no navegador. Não constitui proteção completa contra alteração do jogo ou do ranking.
+A limpeza do ranking usa a rotina já existente no banco e solicita o código novamente.

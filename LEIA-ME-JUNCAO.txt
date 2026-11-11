@@ -1,0 +1,15 @@
+FOOTBALL MANAGER — VERSÃO UNIFICADA
+
+Este pacote reúne os recursos dos três arquivos enviados.
+Base utilizada: FMH 1.3, que já continha a experiência de Halloween e os recursos da carreira.
+Também foram incorporados os dois eventos especiais do pacote de eventos:
+- Evento Bola de Ouro: 30 indicados e moeda exclusiva 🟡 Bola de Ouro.
+- Evento Halloween: jogadores assustadores e moeda exclusiva 🍬 doce.
+As duas moedas são concedidas ao concluir partidas simuladas ou jogáveis.
+A versão FM 7.7 também foi usada como referência para preservar a proteção contra simular
+uma partida enquanto outra partida jogável ainda está em andamento.
+
+Abra index.html ou publique todos os arquivos desta pasta no mesmo diretório.
+O service worker foi atualizado para forçar a atualização do cache do aplicativo.
+Os recursos de conta e ranking Supabase continuam dependendo da configuração já descrita
+em LEIA-ME.txt e SUPABASE_SETUP.sql.
